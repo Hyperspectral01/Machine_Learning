@@ -54,28 +54,6 @@ The content is organized into well-crafted Jupyter Notebooks, covering a range o
 
 ---
 
-## 🚀 **How to Use**  
-
-1. Clone the repository:  
-   ```bash  
-   git clone https://github.com/yourusername/ml-with-scikit-learn.git  
-   cd ml-with-scikit-learn  
-   ```  
-
-2. Install dependencies:  
-   ```bash  
-   pip install -r requirements.txt  
-   ```  
-
-3. Open Jupyter Notebooks:  
-   ```bash  
-   jupyter notebook  
-   ```  
-
-4. Explore the notebooks interactively and experiment with the algorithms!  
-
----
-
 ## 📚 **Recommended Resources**  
 
 Looking to deepen your understanding? Check out these amazing playlists:  
